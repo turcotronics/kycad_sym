@@ -5,6 +5,6 @@
 
 **Switch_GND** SW_Push_Dual_GND is a double contact push button like the 54-00174 TS0666750R260GSMTTR or similar with a smaller symbol.
 
-**USB_C_Plug_USB2.0_small** is the USB C plug with a smaller symbol.
+**USB_C_Plug_USB2.0_small** is the USB 2.0 C plug with a smaller symbol.
 
-**TC_2030_doubleface** is a 6 pin programming connector for both PCB sides.
+**TC_2030_doubleface** is a 6 pins programming connector TC2030-IDC-NL but for both PCB sides.
